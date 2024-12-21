@@ -5,6 +5,9 @@ Bu proje, eğitilmiş bir YOLOv8 modeli kullanarak röntgen görüntülerinde ke
 ## Proje Tanımı
 
 Bu proje, kemik kanseri teşhisinde doktorlara yardımcı olmak amacıyla geliştirilmiştir. YOLOv8 derin öğrenme modeli kullanılarak eğitilmiş bir model ile röntgen görüntülerindeki kemik kanseri belirtileri tespit edilmektedir. Bu sistem, kemik kanserinin erken teşhisine katkıda bulunarak tedavi sürecinin etkinliğini artırmayı hedeflemektedir.
+![istatistik](https://github.com/user-attachments/assets/861487c6-81c5-4398-92bd-73bdaa562c9b)
+![istatistik (2)](https://github.com/user-attachments/assets/59e1fc3c-c36f-4cc6-bf18-33f03ce2e44c)
+![tesbit](https://github.com/user-attachments/assets/073528c1-e7f9-4757-bb08-0963dc7c70e6)
 
 ## Kullanılan Teknolojiler
 
